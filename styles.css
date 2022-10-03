@@ -67,7 +67,7 @@ main {
 #phone {
     width: 300px;
     height: 570px;
-    min-height: 500px;
+    min-height: 570px;
     background-color: var(--secondary-color2);
     border: 10px solid white;
     border-radius: 35px;
