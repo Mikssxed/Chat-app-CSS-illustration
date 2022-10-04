@@ -305,6 +305,9 @@ input::placeholder {
         border-radius: 0 0 300px 300px;
         left: -15%;
     }
+    #rightbg {
+        width: 30vw;
+    }
     #leftbg, #rightbg {
         overflow-x: hidden;
     }
