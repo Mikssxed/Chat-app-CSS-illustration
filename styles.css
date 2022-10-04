@@ -288,6 +288,8 @@ input::placeholder {
         align-items: center;
         padding-left: 0;
         height: auto;
+        min-width: 0;
+        max-width: 100vw;
     }
     #phone {
         min-height: 570px;
