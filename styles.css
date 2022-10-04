@@ -260,6 +260,7 @@ button {
     margin: 0 auto;
     align-items: center;
     position: relative;
+    margin-bottom: 10px;
 }
 input {
     width: 100%;
